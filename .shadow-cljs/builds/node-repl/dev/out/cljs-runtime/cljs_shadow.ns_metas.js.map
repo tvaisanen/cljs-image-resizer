@@ -1,0 +1,1 @@
+{"version":3,"sources":["cljs_shadow/ns_metas.cljs"],"mappings":";AAEA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAKA","names":["cljs-shadow.ns-metas/foo"],"sourcesContent":["(ns cljs-shadow.ns-metas)\n\n(def foo ^{:bar \"foo\"} {:value \"here\"})\n"]}
